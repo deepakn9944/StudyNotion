@@ -1,0 +1,17 @@
+.card{
+    box-shadow: 10px 10px rgb(235, 235, 6);
+}
+.codeblock1 {
+    background: linear-gradient(123.77deg,#8a2be2 -6.46%,orange 59.04%,#f8f8ff 124.53%);
+    box-shadow: 0 0 100px;
+
+    
+
+}
+
+
+.codeblock2 {
+    background: linear-gradient(118.19deg,#1fa2ff -3.62%,#12d8fa 50.44%,#a6ffcb 104.51%);
+    box-shadow: 0 0 100px;
+
+}
